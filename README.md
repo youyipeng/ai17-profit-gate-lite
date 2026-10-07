@@ -30,7 +30,7 @@ See the [internal benchmark summary](BENCHMARK.md) for Pro-related candidate res
 
 ## Pro availability
 
-Pro launch price: US$29 once. Gumroad Bundle: US$49 once. Paid storefronts are saved drafts awaiting creator payout setup and any required platform review. They are not yet purchasable. No purchase URL is claimed until verified. The [release status](RELEASE-STATUS.json) records actual channel state.
+[Gumroad Pro](https://yipengyou.gumroad.com/l/ai17-profit-gate-pro): US$29 once. [Pro + Delivery Bundle](https://yipengyou.gumroad.com/l/ai17-profit-gate-bundle): US$49 once. Both product pages and checkout entries are live. Agensi Pro remains a saved draft pending an eligible creator payout route and marketplace review. The [release status](RELEASE-STATUS.json) records actual channel state. Creator test orders are not organic sales or revenue.
 
 ## Privacy and support
 

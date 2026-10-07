@@ -19,10 +19,39 @@
     "platform_review_required_after_submission": true
   },
   "gumroad": {
-    "state": "drafts_saved_payout_required",
+    "state": "published",
+    "url": "https://yipengyou.gumroad.com/l/ai17-profit-gate-pro",
+    "products": {
+      "pro": {
+        "url": "https://yipengyou.gumroad.com/l/ai17-profit-gate-pro",
+        "price_usd": 29,
+        "product_id": "irqud",
+        "creator_unpublish_control_verified": true,
+        "public_price_verified": true,
+        "public_http": 200,
+        "purchase_entry_and_checkout_verified": true
+      },
+      "bundle": {
+        "url": "https://yipengyou.gumroad.com/l/ai17-profit-gate-bundle",
+        "price_usd": 49,
+        "product_id": "wpnidi",
+        "creator_unpublish_control_verified": true,
+        "public_price_verified": true,
+        "public_http": 200,
+        "purchase_entry_and_checkout_verified": true
+      }
+    },
     "pro_usd": 29,
     "bundle_usd": 49,
-    "publicly_purchasable": false
+    "publicly_purchasable": true,
+    "published_at": "2026-10-07T06:16:06.317095Z",
+    "creator_test_orders": 2,
+    "tests_excluded_from_sales_and_revenue": true,
+    "real_sales": null,
+    "real_income": null,
+    "payout_received": false,
+    "payout_setup_saved_by_creator": true,
+    "platform_discover_listing": "Not verified; platform requires real sale and account risk review. No paid promotion activated."
   },
   "benchmark_scope": "20 public implementation briefs: 10 diagnostic + 10 final reserve; internal model-assisted labels; no future guarantee"
 }
