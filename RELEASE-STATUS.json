@@ -2,17 +2,27 @@
   "version": "1.0.0",
   "github": {
     "state": "published",
-    "repository": "https://github.com/youyipeng/ai17-profit-gate-lite",
+    "url": "https://github.com/youyipeng/ai17-profit-gate-lite",
     "release": "https://github.com/youyipeng/ai17-profit-gate-lite/releases/tag/v1.0.0"
   },
-  "skills_sh": "installation_verification_pending",
+  "skills_sh": {
+    "state": "published",
+    "url": "https://www.skills.sh/youyipeng/ai17-profit-gate-lite/ai17-profit-gate-lite",
+    "installation_verified": true,
+    "organic_installs": null,
+    "release_smoke_install_included_in_platform_counts": true
+  },
   "agensi": {
-    "state": "draft_pending_payout",
-    "pro_usd": 29
+    "state": "draft_saved_payout_required",
+    "pro_usd": 29,
+    "publicly_purchasable": false,
+    "platform_review_required_after_submission": true
   },
   "gumroad": {
-    "state": "authenticated_inspection_pending",
+    "state": "drafts_saved_payout_required",
     "pro_usd": 29,
-    "bundle_usd": 49
-  }
+    "bundle_usd": 49,
+    "publicly_purchasable": false
+  },
+  "benchmark_scope": "20 public implementation briefs: 10 diagnostic + 10 final reserve; internal model-assisted labels; no future guarantee"
 }
