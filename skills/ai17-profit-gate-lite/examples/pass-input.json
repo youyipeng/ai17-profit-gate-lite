@@ -1,0 +1,19 @@
+{
+  "brief": {
+    "scope": "Copy approved weekly stock totals into a test spreadsheet",
+    "systems": [
+      "Inventory export",
+      "Spreadsheet"
+    ],
+    "volume": "100 rows weekly",
+    "access": "Owner-approved read access and test-sheet write access",
+    "data_boundary": "Stock counts only; no personal data",
+    "acceptance": "Row totals match the source in the test environment",
+    "deployment_owner": "Client operations",
+    "maintenance_owner": "Client operations",
+    "deadline": "Agreed pilot date",
+    "budget": "Client-approved discovery budget; no implementation quote"
+  },
+  "confirmed_blockers": [],
+  "basic_checks_confirmed": true
+}

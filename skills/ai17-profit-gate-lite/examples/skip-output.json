@@ -1,0 +1,43 @@
+{
+  "edition": "Lite",
+  "version": "1.0.0",
+  "decision": "SKIP",
+  "meaning": "Basic triage only; PASS means ready for deeper assessment, not approval to quote or deploy",
+  "normalized_brief": {
+    "scope": "Export a third-party account without permission",
+    "systems": null,
+    "volume": null,
+    "access": null,
+    "data_boundary": null,
+    "acceptance": null,
+    "deployment_owner": null,
+    "maintenance_owner": null,
+    "deadline": null,
+    "budget": null
+  },
+  "requirement_gaps": [
+    "systems",
+    "volume",
+    "access",
+    "data_boundary",
+    "acceptance",
+    "deployment_owner",
+    "maintenance_owner",
+    "deadline",
+    "budget"
+  ],
+  "risk_checklist": [
+    "Confirm authority and supported integration actions",
+    "Identify sensitive data and access boundaries",
+    "Agree acceptance and failure handling",
+    "Assign deployment and maintenance owners",
+    "Verify budget, deadline and recurring usage responsibility"
+  ],
+  "confirmed_blockers": [
+    "The supplied brief explicitly confirms account-owner permission was refused"
+  ],
+  "quote_allowed": false,
+  "next_actions": [
+    "The supplied brief explicitly confirms account-owner permission was refused"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "github": {
+    "state": "published",
+    "repository": "https://github.com/youyipeng/ai17-profit-gate-lite",
+    "release": "https://github.com/youyipeng/ai17-profit-gate-lite/releases/tag/v1.0.0"
+  },
+  "skills_sh": "installation_verification_pending",
+  "agensi": {
+    "state": "draft_pending_payout",
+    "pro_usd": 29
+  },
+  "gumroad": {
+    "state": "authenticated_inspection_pending",
+    "pro_usd": 29,
+    "bundle_usd": 49
+  }
+}

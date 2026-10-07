@@ -1,0 +1,9 @@
+{
+  "brief": {
+    "scope": "Export a third-party account without permission"
+  },
+  "confirmed_blockers": [
+    "The supplied brief explicitly confirms account-owner permission was refused"
+  ],
+  "basic_checks_confirmed": false
+}

@@ -1,0 +1,34 @@
+{
+  "edition": "Lite",
+  "version": "1.0.0",
+  "decision": "PASS",
+  "meaning": "Basic triage only; PASS means ready for deeper assessment, not approval to quote or deploy",
+  "normalized_brief": {
+    "scope": "Copy approved weekly stock totals into a test spreadsheet",
+    "systems": [
+      "Inventory export",
+      "Spreadsheet"
+    ],
+    "volume": "100 rows weekly",
+    "access": "Owner-approved read access and test-sheet write access",
+    "data_boundary": "Stock counts only; no personal data",
+    "acceptance": "Row totals match the source in the test environment",
+    "deployment_owner": "Client operations",
+    "maintenance_owner": "Client operations",
+    "deadline": "Agreed pilot date",
+    "budget": "Client-approved discovery budget; no implementation quote"
+  },
+  "requirement_gaps": [],
+  "risk_checklist": [
+    "Confirm authority and supported integration actions",
+    "Identify sensitive data and access boundaries",
+    "Agree acceptance and failure handling",
+    "Assign deployment and maintenance owners",
+    "Verify budget, deadline and recurring usage responsibility"
+  ],
+  "confirmed_blockers": [],
+  "quote_allowed": false,
+  "next_actions": [
+    "Complete evidence and economics assessment before committing"
+  ]
+}

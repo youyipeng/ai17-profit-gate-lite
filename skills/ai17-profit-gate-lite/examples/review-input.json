@@ -1,0 +1,11 @@
+{
+  "brief": {
+    "scope": "Send selected incoming messages to a team channel",
+    "systems": [
+      "Email",
+      "Team chat"
+    ]
+  },
+  "confirmed_blockers": [],
+  "basic_checks_confirmed": false
+}
